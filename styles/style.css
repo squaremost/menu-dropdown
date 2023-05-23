@@ -1,2 +1,7 @@
 @import url(./component/variable.css);
 @import url(./component/initialize.css);
+@import url(./component/util.css);
+
+@import url(./layout.css);
+
+@import url(./component/header.css);

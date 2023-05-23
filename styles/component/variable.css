@@ -6,4 +6,15 @@
     --primary: #FFFFFF;
     --success: #FFFFFF;
     --warning: #FFFFFF;
+
+    --bg: #FFFFFF;
+
+    --color: #343434;
+}
+
+body {
+    font-size: 1rem;
+    line-height: 1em;
+    color: var(--color);
+    background: var(--bg);
 }
